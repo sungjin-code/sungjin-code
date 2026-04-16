@@ -1,10 +1,16 @@
-# Hi there, I'm Sungjin Park! 👋
+# Hi there, I'm Sung-jin Park! 👋
 
-I study AI Engineering with a focus on Computer Vision.
+You can call me *Jin*.
 
-🧪 More details on my blog: [denev6.github.io](https://denev6.github.io/about/)
+These days, I'm diving deep into Multimodal LLMs and Agentic Systems. I love exchanging ideas across disciplines — always open to connecting with people from diverse backgrounds.
 
-## 🛠️ Skills
+Check out my [website](https://denev6.github.io/research/) to learn more. 🙂
+
+한국어 [블로그](https://denev6.github.io/)도 있어요!
+
+---
+
+### Skills
 
 <p align="left">
   <img width="60" alt="Python Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;
@@ -13,7 +19,7 @@ I study AI Engineering with a focus on Computer Vision.
   <!--<img width="60" alt="C++ Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;-->
   <img width="60" alt="PyTorch Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">&nbsp;&nbsp;
   <img width="60" alt="Huggingface Logo" src="https://cdn.simpleicons.org/huggingface/FFD21E">&nbsp;&nbsp;
-  <img width="60" alt="NumPy Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">&nbsp;&nbsp;
+  <!--<img width="60" alt="NumPy Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">&nbsp;&nbsp;-->
   <img width="60" alt="LangGraph Logo" src="https://cdn.simpleicons.org/langgraph/1C3C3C">&nbsp;&nbsp;
   <img width="60" alt="OpenCV Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">&nbsp;&nbsp;
   <img width="60" alt="FastAPI Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">&nbsp;&nbsp;
