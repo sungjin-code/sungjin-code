@@ -4,9 +4,9 @@ You can call me *Jin*.
 
 These days, I'm diving deep into Multimodal LLMs and Agentic Systems. I love exchanging ideas across disciplines — always open to connecting with people from diverse backgrounds.
 
-Check out my [website](https://denev6.github.io/research/) to learn more. 🙂
+Check out my [website](https://sungjin-code.github.io/research/) to learn more. 🙂
 
-한국어 [블로그](https://denev6.github.io/)도 있어요!
+한국어 [블로그](https://sungjin-code.github.io/)도 있어요!
 
 ---
 
