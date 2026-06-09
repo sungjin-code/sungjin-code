@@ -1,12 +1,12 @@
 # Hi there, I'm Sung-jin Park! 👋
 
-You can call me *Jin*.
+I'm *Jin*, an AI research engineer building production-grade AI systems for real-world environments.
 
-These days, I'm diving deep into Multimodal LLMs and Agentic Systems. I love exchanging ideas across disciplines — always open to connecting with people from diverse backgrounds.
+If you'd like to learn more about my background and ongoing work, feel free to explore the links below.
 
-Check out my [website](https://sungjin-code.github.io/research/) to learn more. 🙂
-
-한국어 [블로그](https://sungjin-code.github.io/)도 있어요!
+- 🌐 Website: [/research](https://sungjin-code.github.io/research/)
+- 💼 LinkedIn: [@sungjin-code](https://www.linkedin.com/in/sungjin-code/)
+- 📝 Korean Blog: [/posts](https://sungjin-code.github.io/posts/)
 
 ---
 
@@ -20,7 +20,7 @@ Check out my [website](https://sungjin-code.github.io/research/) to learn more. 
   <img width="60" alt="PyTorch Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">&nbsp;&nbsp;
   <img width="60" alt="Huggingface Logo" src="https://cdn.simpleicons.org/huggingface/FFD21E">&nbsp;&nbsp;
   <!--<img width="60" alt="NumPy Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">&nbsp;&nbsp;-->
-  <img width="60" alt="LangGraph Logo" src="https://cdn.simpleicons.org/langgraph/1C3C3C">&nbsp;&nbsp;
+  <img width="60" alt="LangChain Logo" src="https://cdn.simpleicons.org/langchain/1C3C3C">&nbsp;&nbsp;
   <img width="60" alt="OpenCV Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">&nbsp;&nbsp;
   <img width="60" alt="FastAPI Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">&nbsp;&nbsp;
   <!--<img width="60" alt="Sveltekit Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">&nbsp;&nbsp;-->
