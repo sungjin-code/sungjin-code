@@ -1,14 +1,10 @@
 # Hi there, I'm Sung-jin Park! 👋
 
-I'm *Jin*, an AI research engineer interested in LLM memory and reasoning.
+I'm *Jin*, an **AI research engineer** interested in Agentic memory and reasoning.
 
 If you'd like to learn more about my background and ongoing work, feel free to explore the links below.
 
-- 🌐 Website: [sungjin-code.github.io](https://sungjin-code.github.io/)
-- 💼 LinkedIn: [@sungjin-code](https://www.linkedin.com/in/sungjin-code/)
-- 📝 Korean Blog: [/posts](https://sungjin-code.github.io/posts/)
-
----
+🔗 **Website**: [*sungjin-code.github.io*](https://sungjin-code.github.io/)
 
 ### Skills
 
@@ -30,3 +26,6 @@ If you'd like to learn more about my background and ongoing work, feel free to e
   <img width="60" alt="Docker Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;&nbsp;
   <img width="60" alt="ClaudeCode Logo" src="https://cdn.simpleicons.org/claude/D97757">
 </p>
+
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/denev6?ext=heatmap)-->
+![Leetcode Stats](https://leetcard.jacoblin.cool/denev6)
