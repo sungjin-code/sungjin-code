@@ -27,5 +27,4 @@ If you'd like to learn more about my background and ongoing work, feel free to e
   <img width="60" alt="ClaudeCode Logo" src="https://cdn.simpleicons.org/claude/D97757">
 </p>
 
-<!--![Leetcode Stats](https://leetcard.jacoblin.cool/denev6?ext=heatmap)-->
-![Leetcode Stats](https://leetcard.jacoblin.cool/denev6)
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/sungjin-code?ext=heatmap)-->
